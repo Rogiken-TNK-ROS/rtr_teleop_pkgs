@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>rtr_teleop_pkgs</name>
+  <version>0.1.0</version>
+  <description>The rtr_teleop_pkgs package</description>
+
+  <maintainer email="groadpg@gmail.com">Ryodo Tanaka</maintainer>
+
+  <license>BSD</license>
+
+  <url type="repository">http://gitlab.com/rogiken-tnk-ros/rtr_teleop_pkgs</url>
+  <author email="groadpg@gmail.com">Ryodo Tanaka</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>rtr_common</exec_depend>
+  <exec_depend>rtr_control</exec_depend>
+  <exec_depend>rtr_moveit</exec_depend>
+  <exec_depend>wrs_robot</exec_depend>
+  
+  <export>
+    <metapackage/>
+  </export>
+
+</package>
