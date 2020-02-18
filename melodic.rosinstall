@@ -1,0 +1,16 @@
+- git:
+    local-name: rtr_common
+    uri: https://gitlab.com/rogiken-tnk-ros/rtr_common.git
+    version: develop
+- git:
+    local-name: rtr_control
+    uri: https://gitlab.com/rogiken-tnk-ros/rtr_control.git
+    version: develop
+- git:
+    local-name: rtr_moveit
+    uri: https://gitlab.com/rogiken-tnk-ros/rtr_moveit.git
+    version: develop
+- git:
+    local-name: rtr_robot
+    uri: https://gitlab.com/rogiken-tnk-ros/rtr_robot.git
+    version: develop
