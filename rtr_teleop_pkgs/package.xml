@@ -15,7 +15,7 @@
   <exec_depend>rtr_common</exec_depend>
   <exec_depend>rtr_control</exec_depend>
   <exec_depend>rtr_moveit</exec_depend>
-  <exec_depend>wrs_robot</exec_depend>
+  <exec_depend>rtr_robot</exec_depend>
   
   <export>
     <metapackage/>
