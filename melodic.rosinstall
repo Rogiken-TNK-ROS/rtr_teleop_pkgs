@@ -14,3 +14,7 @@
     local-name: rtr_robot
     uri: git@gitlab.com:rogiken-tnk-ros/rtr_robot.git
     version: develop
+- git:
+    local-name: rtr_joycon
+    uri: git@gitlab.com:rogiken-tnk-ros/rtr_joycon.git
+    version: dev/update
