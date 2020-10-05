@@ -17,4 +17,4 @@
 - git:
     local-name: rtr_joycon
     uri: git@gitlab.com:rogiken-tnk-ros/rtr_joycon.git
-    version: dev/update
+    version: develop
