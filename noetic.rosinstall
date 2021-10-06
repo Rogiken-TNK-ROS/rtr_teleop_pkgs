@@ -22,3 +22,11 @@
     local-name: radial_menu_ros
     uri: https://github.com/yoshito-n-students/radial_menu_ros.git
     version: master
+- git:
+    local-name: rtr_qr_reader
+    uri: git@gitlab.com:rogiken-tnk-ros/rtr_qr_reader.git
+    version: master
+- git:
+    local-name: dualsense_driver
+    uri: https://github.com/HansRobo/dualsense_driver.git
+    version: main
